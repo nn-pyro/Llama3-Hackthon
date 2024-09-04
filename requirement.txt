@@ -1,0 +1,11 @@
+python-dotenv
+llama-index
+llama-index-llms-together
+whisper
+transformers
+numpy<2
+ffmpeg-python
+fastapi
+uvicorn
+pybind11>=2.12
+git+https://github.com/openai/whisper.git
